@@ -1,8 +1,6 @@
 # Graph Traversal Visualizer in C++
 
-*(Inspired by the exercise  
-[Visualizador de Travessia de Grafos em CPP](https://neps.academy/br/course/algoritmos-em-grafos/lesson/visualizador-de-travessia-de-grafos-em-c)  
-from Neps Academy)*
+*(Inspired by the exercise [Visualizador de Travessia de Grafos em CPP](https://neps.academy/br/course/algoritmos-em-grafos/lesson/visualizador-de-travessia-de-grafos-em-c) from Neps Academy)*
 This project was developed inspired by the **Visualizador de Travessia de Grafos CPP** exercise from **Neps Academy**, part of the Graph Algorithms course.  
 It is an interactive desktop application written in **C++ using SDL3** that allows users to visually construct a graph and observe how **Breadth-First Search (BFS)** and **Depth-First Search (DFS)** traverse it step by step.
 The main goal of the project is **educational visualization**, helping students understand how graph traversal algorithms explore a graph structure.  
